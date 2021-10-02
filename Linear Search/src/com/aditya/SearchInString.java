@@ -8,5 +8,6 @@ public class SearchInString  {
     public static void main(String[] args) {
         String name = "Aditya";
         System.out.println(Arrays.toString( name.toCharArray()));
+        //This is just a comment and nothing else!!
     }
 }
