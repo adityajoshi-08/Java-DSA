@@ -1,2 +1,8 @@
-package Patterns;public class SelectionSort {
+package Patterns;
+
+public class SelectionSort {
+    public static void main(String[] args) {
+
+    }
+    static int[] selection
 }

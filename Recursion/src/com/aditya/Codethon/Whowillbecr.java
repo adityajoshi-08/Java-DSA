@@ -1,2 +1,5 @@
-package com.aditya.Codethon;public class Whowillbecr {
+package com.aditya.Codethon;
+
+public class Whowillbecr {
+
 }

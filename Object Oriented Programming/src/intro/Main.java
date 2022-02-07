@@ -1,10 +1,11 @@
 package intro;
 
 public class Main {
-    public static void main(String[] args) {
-        Student aditya = new Student();
+    static public void main(String[] args) {
+        Student1 aditya = new Student1();
         Student aditya2 = new Student(2,"Aditya", 100f);
         System.out.println(aditya2.rno + " "+aditya2.name+ " "+aditya2.marks);
+
     }
 }
 class Student{
