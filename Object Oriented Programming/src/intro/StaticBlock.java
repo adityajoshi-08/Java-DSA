@@ -12,6 +12,5 @@ public class StaticBlock {
         Test obj = new Test("Aditya");
         Test obj2 = new Test("Joshi");
         System.out.println(Test.name);
-        System.out.println(Test.name);
     }
 }
