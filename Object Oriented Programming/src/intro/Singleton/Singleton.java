@@ -3,7 +3,7 @@ package intro.Singleton;
 public class Singleton {
     private Singleton(){
     }
-
+  
     public static Singleton instance;
 
 
